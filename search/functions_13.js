@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['widget_5fadd_5fbutton_5felement_0',['widget_add_button_element',['../widget_8h.html#aacb36edabfcc64be571a642006d41ed3',1,'widget.c']]],
+  ['widget_5fadd_5fframe_5felement_1',['widget_add_frame_element',['../widget_8h.html#a717401023643e7f5f4a29a0b08f05a33',1,'widget.c']]],
+  ['widget_5fadd_5ficon_5felement_2',['widget_add_icon_element',['../widget_8h.html#a6ae6da20fcc7df66d8cbc91c236d9014',1,'widget.c']]],
+  ['widget_5fadd_5fstring_5felement_3',['widget_add_string_element',['../widget_8h.html#ab37a13f87fd80eb1baa416f59a633d78',1,'widget.c']]],
+  ['widget_5fadd_5fstring_5fmultiline_5felement_4',['widget_add_string_multiline_element',['../widget_8h.html#a411bfce76eca7baed529a48cc03d3f59',1,'widget.c']]],
+  ['widget_5fadd_5ftext_5fbox_5felement_5',['widget_add_text_box_element',['../widget_8h.html#ad9b2bfa444c2da17dce9888b5a06c88b',1,'widget.c']]],
+  ['widget_5fadd_5ftext_5fscroll_5felement_6',['widget_add_text_scroll_element',['../widget_8h.html#a4e2e6de1eca0cd23c4edf4b68fd1a67e',1,'widget.c']]],
+  ['widget_5falloc_7',['widget_alloc',['../widget_8h.html#ad0a29b3bfd595a07f555ad12212b575a',1,'widget.c']]],
+  ['widget_5felement_5fbutton_5fcreate_8',['widget_element_button_create',['../widget__element__i_8h.html#a1de6e186d979f94ab50d05398e5778dc',1,'widget_element_button.c']]],
+  ['widget_5felement_5fframe_5fcreate_9',['widget_element_frame_create',['../widget__element__i_8h.html#ac6c6a854fa8aba218748a74371d2178a',1,'widget_element_frame.c']]],
+  ['widget_5felement_5ficon_5fcreate_10',['widget_element_icon_create',['../widget__element__i_8h.html#a6d455483e8d89507b8d93d177a8ad917',1,'widget_element_icon.c']]],
+  ['widget_5felement_5fstring_5fcreate_11',['widget_element_string_create',['../widget__element__i_8h.html#a8e689d46eb5105b9a56bbe873287dfce',1,'widget_element_string.c']]],
+  ['widget_5felement_5fstring_5fmultiline_5fcreate_12',['widget_element_string_multiline_create',['../widget__element__i_8h.html#a4c892b32035c5812d9808344ef335130',1,'widget_element_string_multiline.c']]],
+  ['widget_5felement_5ftext_5fbox_5fcreate_13',['widget_element_text_box_create',['../widget__element__i_8h.html#a2f5c2b3d6e824e0cf59ad89a4d1f2e20',1,'widget_element_text_box.c']]],
+  ['widget_5ffree_14',['widget_free',['../widget_8h.html#a86453ca9a2193a7cf1084f88cb91651c',1,'widget.c']]],
+  ['widget_5fget_5fview_15',['widget_get_view',['../widget_8h.html#a7a9ebd7583e82ca07f600d3f173760ef',1,'widget.c']]],
+  ['widget_5freset_16',['widget_reset',['../widget_8h.html#abf6c20291875cc063a14faf15b1dd35c',1,'widget.c']]]
+];

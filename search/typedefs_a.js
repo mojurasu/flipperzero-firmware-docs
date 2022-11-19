@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['returncode_0',['ReturnCode',['../st__errno_8h.html#a0aebf427a0da8eec513f982def32d17d',1,'st_errno.h']]],
+  ['rfalanalogconfigbitrate_1',['rfalAnalogConfigBitrate',['../group___analog_config.html#ga20e1dc8e2e04a36bacd8d82d96f42195',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigdirection_2',['rfalAnalogConfigDirection',['../group___analog_config.html#ga4d69d02d1c723fce15c0faa337176586',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigid_3',['rfalAnalogConfigId',['../group___analog_config.html#gaa169bd35baeb1459d31667b2cd963500',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigmode_4',['rfalAnalogConfigMode',['../group___analog_config.html#ga569c597f00f2bee479a69df01e100541',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfignum_5',['rfalAnalogConfigNum',['../group___analog_config.html#ga66deb215906e9b1d529db2f9a2aa4935',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigoffset_6',['rfalAnalogConfigOffset',['../group___analog_config.html#gacc739704ba62b00ab54c7d9a3b5f28a1',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigregaddr_7',['rfalAnalogConfigRegAddr',['../group___analog_config.html#ga65e0837129437d8b750483177ec93d74',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigregmask_8',['rfalAnalogConfigRegMask',['../group___analog_config.html#ga42a0ed5bc16a9555840c998b4448bbee',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigregval_9',['rfalAnalogConfigRegVal',['../group___analog_config.html#gaedab8820979f4e693475c6ff120fb637',1,'rfal_analogConfig.h']]],
+  ['rfalanalogconfigtech_10',['rfalAnalogConfigTech',['../group___analog_config.html#ga73e0709cad7490bab4401de70b50c9a9',1,'rfal_analogConfig.h']]],
+  ['rfaldpomeasurefunc_11',['rfalDpoMeasureFunc',['../group___d_p_o.html#ga9eebfae73c474b81be1a58224eb0cc8d',1,'rfal_dpo.h']]],
+  ['rfalfelicapollres_12',['rfalFeliCaPollRes',['../group___r_f.html#gab4c22ab53e5115af27d883099476488e',1,'rfal_rf.h']]],
+  ['rfalnfcdepdeactcallback_13',['rfalNfcDepDeactCallback',['../group___n_f_c-_d_e_p.html#gac9c4face2a519834ad9e3cafc42ab8ea',1,'rfal_nfcDep.h']]],
+  ['rfalnfcfserv_14',['rfalNfcfServ',['../group___n_f_c-_f.html#ga8e4eb5862eed03bfd735c245b42c96f7',1,'rfal_nfcf.h']]],
+  ['rfalposttxrxcallback_15',['rfalPostTxRxCallback',['../group___r_f.html#ga3f3859f89ddadbb01bd73038d8150719',1,'rfal_rf.h']]],
+  ['rfalpretxrxcallback_16',['rfalPreTxRxCallback',['../group___r_f.html#ga6d24da67e2ba5e3c65099cfb6d05dd13',1,'rfal_rf.h']]],
+  ['rfalst25tbblock_17',['rfalSt25tbBlock',['../group___s_t25_t_b.html#ga3c59d4053ff4557ab67820007ff33013',1,'rfal_st25tb.h']]],
+  ['rfalst25tbuid_18',['rfalSt25tbUID',['../group___s_t25_t_b.html#gaba6b7ba41f17a5e330f7c025e67bf794',1,'rfal_st25tb.h']]],
+  ['rfalstatechangedcallback_19',['RfalStateChangedCallback',['../group___r_f.html#ga11a998c5f9dedb7e712abac70c6ce444',1,'rfal_rf.h']]],
+  ['rfalupperlayercallback_20',['rfalUpperLayerCallback',['../group___r_f.html#ga79178c1ea007d13ed20b7beca859f1cb',1,'rfal_rf.h']]]
+];

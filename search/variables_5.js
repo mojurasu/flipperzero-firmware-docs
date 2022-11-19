@@ -1,0 +1,22 @@
+var searchData=
+[
+  ['fdtlisten_0',['FDTListen',['../structrfal_timings.html#af46ebef7d54d2d6b4d0525014c36542e',1,'rfalTimings']]],
+  ['fdtpoll_1',['FDTPoll',['../structrfal_timings.html#a2cfb46528add3b5fa6eae7e4dc011eff',1,'rfalTimings']]],
+  ['field_2',['field',['../structrfal.html#a3569064e874dbf64eee1f8db6e0c5981',1,'rfal']]],
+  ['fifo_3',['fifo',['../structrfal.html#afad902b05b22cf57297a4cb999aff16a',1,'rfal']]],
+  ['file_5fid_4',['file_id',['../struct_file.html#acda2e320cff62407279d28e17e1441ec',1,'File']]],
+  ['flags_5',['flags',['../struct_file_info.html#a0afe24d14df47b43c46b4f1413577887',1,'FileInfo::flags()'],['../structrfal_transceive_context.html#ab4e1ede9bc30448388b9ca12ec9ce4ae',1,'rfalTransceiveContext::flags()']]],
+  ['fs_6',['FS',['../structrfal_nfc_dep_info.html#ab6415fdb71ba1a60e9371df06d263cb6',1,'rfalNfcDepInfo']]],
+  ['fs_5finfo_7',['fs_info',['../struct_f_s___common___api.html#ac7b8e51e4ec2bc6f6980898143f5ce1e',1,'FS_Common_Api']]],
+  ['fsci_8',['fsci',['../structrfal_iso_dep_ats_param.html#a3b9768205303ea3f880907ba8f7310f9',1,'rfalIsoDepAtsParam']]],
+  ['fsciprotype_9',['FsciProType',['../structrfal_nfcb_sensb_res_protocol_info.html#acf8137382ed5acec4d008cbc3750223b',1,'rfalNfcbSensbResProtocolInfo']]],
+  ['fsx_10',['FSx',['../structrfal_nfc_dep_pdu_tx_rx_param.html#a5e338bdb39aa52bd9acf2deed5ca3e12',1,'rfalNfcDepPduTxRxParam::FSx()'],['../structrfal_nfc_dep_tx_rx_param.html#afceb0a2d1d219298b42e94ceabf16a10',1,'rfalNfcDepTxRxParam::FSx()'],['../structrfal_iso_dep_tx_rx_param.html#a1bf8fe969f5fb34601dd229931f4542f',1,'rfalIsoDepTxRxParam::FSx()'],['../structrfal_iso_dep_info.html#a95877fec683e557a5256f7537a7bad88',1,'rfalIsoDepInfo::FSx()'],['../structrfal_iso_dep_apdu_tx_rx_param.html#a48363549a8ec3719e2ce314a4b875cfd',1,'rfalIsoDepApduTxRxParam::FSx()']]],
+  ['fsxi_11',['FSxI',['../structrfal_iso_dep_info.html#addd0dbea72671e20ca0f9db0d9c919cd',1,'rfalIsoDepInfo']]],
+  ['furi_5fhal_5fsd_5fspi_5fhandle_12',['furi_hal_sd_spi_handle',['../furi__hal__sd_8h.html#a29ca864c1493f67841ebffa0232cd68a',1,'furi_hal_sd.c']]],
+  ['fusversionmajor_13',['FusVersionMajor',['../struct_ble_glue_c2_info.html#af06978f08302ca2497cc2bbc24bd9b78',1,'BleGlueC2Info']]],
+  ['fwi_14',['fwi',['../structrfal_iso_dep_ats_param.html#ab5387466322c9f5ca854f23370c10410',1,'rfalIsoDepAtsParam']]],
+  ['fwi_15',['FWI',['../structrfal_iso_dep_info.html#a5b8f87c87e5f1474eb15bb11b1dc15b6',1,'rfalIsoDepInfo']]],
+  ['fwiadcfo_16',['FwiAdcFo',['../structrfal_nfcb_sensb_res_protocol_info.html#a97d009f2dbd370a996992142612e03df',1,'rfalNfcbSensbResProtocolInfo']]],
+  ['fwt_17',['fwt',['../structrfal_nfc_dep_configs.html#a9765cdb210a0ce1e1432c67c2530c71e',1,'rfalNfcDepConfigs::fwt()'],['../structrfal_transceive_context.html#a4dedb7dd69cd163b00fda1bdbf2fa964',1,'rfalTransceiveContext::fwt()']]],
+  ['fwt_18',['FWT',['../structrfal_iso_dep_info.html#af0de16c066a68190ad5fa776a68620bc',1,'rfalIsoDepInfo::FWT()'],['../structrfal_iso_dep_tx_rx_param.html#a3eb803711866f0d63467fe465a3ea624',1,'rfalIsoDepTxRxParam::FWT()'],['../structrfal_iso_dep_apdu_tx_rx_param.html#ae5892d675b752faf8ab93e9a0cc5868b',1,'rfalIsoDepApduTxRxParam::FWT()'],['../structrfal_nfc_dep_info.html#ab1f8d1a6c55e948e061eef171694b86a',1,'rfalNfcDepInfo::FWT()'],['../structrfal_nfc_dep_tx_rx_param.html#ad723f7c0deda88136561b906461b2114',1,'rfalNfcDepTxRxParam::FWT()'],['../structrfal_nfc_dep_pdu_tx_rx_param.html#a3f2a541380f4ce893475fcec6d7e18bc',1,'rfalNfcDepPduTxRxParam::FWT()']]]
+];
